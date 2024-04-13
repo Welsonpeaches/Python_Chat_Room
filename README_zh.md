@@ -1,5 +1,7 @@
 # Python在线匿名聊天室
-### No English Ver, Please translate yourself!
+[中文](https://github.com/Welsonpeaches/Python_Chat_Room/blob/main/README_zh.md)
+[English](https://github.com/Welsonpeaches/Python_Chat_Room/blob/main/README.md)
+
 
 这是一个基于**Python**的在线网络匿名聊天室，目前版本为Ver0.0.2。
 仍有少许Bug，敬请谅解
