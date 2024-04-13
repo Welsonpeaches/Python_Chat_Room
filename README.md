@@ -1,6 +1,6 @@
 # Python online anonymous chat room
 - en [English](README.md)
-- zh [简体中文](README.zh-CN.md)
+- zh [简体中文](README.zh_CN.md)
 
 This is an online anonymous chat room based on **Python**. The current version is Ver0.0.2.
 There are still some bugs, please understand
