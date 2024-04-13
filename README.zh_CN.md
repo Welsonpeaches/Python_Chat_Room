@@ -1,6 +1,9 @@
 # Python在线匿名聊天室
-[中文](https://github.com/Welsonpeaches/Python_Chat_Room/blob/main/README_zh.md)
-[English](https://github.com/Welsonpeaches/Python_Chat_Room/blob/main/README.md)
+# README.md
+- en [English](README.md)
+- - zh_CN [简体中文](README.zh_CN.md)
+
+
 
 
 这是一个基于**Python**的在线网络匿名聊天室，目前版本为Ver0.0.2。
