@@ -1,6 +1,6 @@
 # Python online anonymous chat room
-[中文](https://github.com/Welsonpeaches/Python_Chat_Room/blob/main/README_zh.md)
-[English](https://github.com/Welsonpeaches/Python_Chat_Room/blob/main/README.md)
+- en [English](README.md)
+- zh_CN [简体中文](README.zh_CN.md)
 
 This is an online anonymous chat room based on **Python**. The current version is Ver0.0.2.
 There are still some bugs, please understand
