@@ -1,7 +1,7 @@
 # Python在线匿名聊天室
 # README.md
 - en [English](README.md)
-- - zh_CN [简体中文](README.zh_CN.md)
+- zh_CN [简体中文](README.zh_CN.md)
 
 
 
